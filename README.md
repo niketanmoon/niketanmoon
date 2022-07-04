@@ -23,7 +23,7 @@
 - I’m a Master of Data Science student at University of Adelaide.
 - I'm currently working on Graph Database as my final year project with an Industry.
 - I am also doing courses on Neo4j and GCP to get professionally certified.
-- Some of the things that I learn to do regularly is reading a book, solving a question on Leetcode and Geeks For Geeks and playing chess.
+- Some of the things that I do regularly is reading a book, solving a question on Leetcode and Geeks For Geeks and playing chess.
 - I also like to create website clones in my freetime.
 - Goal is to learn about MLOPs and contribute to open source projects.
 
