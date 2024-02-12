@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/niketanmoon/" target="_blank">
+  <a href="https://www.linkedin.com/in/niketanmoon/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:niketanmoon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://leetcode.com/niketanmoon/" target="_blank">
+  <a href="https://leetcode.com/niketanmoon/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
